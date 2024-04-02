@@ -1,0 +1,12 @@
+{
+  "name": "base_node_template",
+  "version": "1.0.0",
+  "description": "a basic starter project for node",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "sumit",
+  "license": "ISC"
+}
+ 
